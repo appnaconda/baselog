@@ -1,0 +1,2 @@
+# baselog
+Base log library
